@@ -1,3 +1,16 @@
+# ---------------------------------------------------------------------------
+#
+# Title: Sheet Swapper
+# Date: 05/03/2025
+# Version: 1.1
+# Author: Bidascu Denis
+#
+# Purpose: This script is used to swap two sheets in an Excel file.
+#
+# Command to run: python path/to/Swap_Sheets.py
+#
+# ---------------------------------------------------------------------------
+
 from tkinter import *
 from tkinter import filedialog
 import pandas as pd
